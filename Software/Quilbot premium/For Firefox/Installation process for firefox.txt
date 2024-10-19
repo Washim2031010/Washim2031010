@@ -1,0 +1,10 @@
+
+       Installation for firefox
+1. Download this repo as .xpi file.
+2. In Firefox, open about:addons from the address bar.
+3. Drag and drop the downloaded .xpi file onto the Add-ons window that opens.
+4. Or click on the gear icon, click on "Install Add-on From File..." and select the downloaded .xpi file.
+5. Open Quillbot
+6. Login with your normal account.
+7. Now that you've entered the above token, you can use premium services.
+8. That's all!
