@@ -1,0 +1,12 @@
+
+Installation
+
+1. Download this repo as a ZIP file from GitHub.
+2. Unzip the file.
+3. In Chrome go to the extensions page (chrome://extensions).
+4. Enable Developer Mode.
+5. Click on "Load Unpacked" button and select the folder where you extracted the Zip to import it.
+6. Open Quillbot
+7. Login with your normal account.
+8. Now that you've entered the above token, you can use premium services.
+9. That's all!
